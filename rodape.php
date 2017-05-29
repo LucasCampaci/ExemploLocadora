@@ -1,0 +1,1 @@
+<p class="titulo">Aqui é o rodapé padrão do site</p>
